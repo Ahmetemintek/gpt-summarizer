@@ -46,7 +46,6 @@ def extract_transcript_details(youtube_video_url):
         st.error(f"An error occurred while extracting the transcript: {str(e)}")
         return None
 
-# ... rest of the code remains unchanged ...
 
 ## getting the summary based on Prompt from OpenAI GPT-3.5-turbo
 def generate_content(transcript_text, prompt):
