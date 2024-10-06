@@ -1,10 +1,9 @@
 # YouTube Video Summarizer
+![Screenshot From The App](screenshot_app.png)
 
 ## Overview
 
 YouTube Video Summarizer is a application that generates concise summaries of YouTube videos by leveraging the power of OpenAI's GPT-3.5-turbo model. This app extracts key points and main ideas from video transcripts, providing users with quick insights into video content.
-
-![Screenshot From The App](screenshot_app.png)
 
 ## Features
 
